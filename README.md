@@ -87,7 +87,7 @@ AI-powered attendance management system designed to automate real-time attendanc
 | Engineering Focus | Computer vision pipeline, recognition workflow, backend record management |
 | Repository | [smart-attendance-ai](https://github.com/karan0dev/smart-attendance-ai) |
 
-**Professional Summary:**  
+**Professional Summary:**
 Built as a practical AI system for attendance automation, this project focuses on applying computer vision concepts to a real-world administrative workflow. The system records attendance with timestamps and stores data in a structured database for reliable tracking.
 
 </details>
@@ -107,7 +107,7 @@ Desktop-based workforce management system built with JavaFX and MySQL, designed 
 | Engineering Focus | DAO pattern, JDBC integration, modular UI design, relational database handling |
 | Repository | [Employee-Management-System](https://github.com/karan0dev/Employee-Management-System) |
 
-**Professional Summary:**  
+**Professional Summary:**
 Designed as a structured Java desktop application with a database-backed architecture. The system uses DAO-style separation to keep SQL logic isolated from the frontend, making it easier to maintain, extend, and debug.
 
 </details>
@@ -127,7 +127,7 @@ Mobile app concept for discovering college events, hackathons, seminars, worksho
 | Engineering Focus | Mobile-first UI, product design, student experience, event workflow |
 | Demo | [Portfolio](https://krn-portfolio0.netlify.app/) |
 
-**Professional Summary:**  
+**Professional Summary:**
 Built with a product-focused mindset to solve a real student problem: scattered event information. CampusX brings events into a cleaner mobile experience with emphasis on usability and modern interface design.
 
 </details>
@@ -147,7 +147,7 @@ Full-stack ticket management and operations dashboard for QR-based ticket genera
 | Engineering Focus | Backend routing, database workflows, admin dashboard UX, validation logic |
 | Demo | [Portfolio](https://krn-portfolio0.netlify.app/) |
 
-**Professional Summary:**  
+**Professional Summary:**
 A dashboard-focused project combining backend logic with a clean frontend interface. It supports real-time style operations such as ticket validation, revenue metrics, and administrative controls.
 
 </details>
@@ -260,9 +260,8 @@ Open_To:
 
 <div align="center">
 
-### “I build software that connects intelligence, usability, and real-world impact.”
+### "I build software that connects intelligence, usability, and real-world impact."
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,35:302b63,70:7F00FF,100:E100FF&height=140&section=footer"/>
 
 </div>
-](https://github.com/karan0dev/karan0dev/edit/main/README.md)
